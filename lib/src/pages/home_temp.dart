@@ -19,7 +19,7 @@ class HomePageTemp extends StatelessWidget {
 
   List<Widget> _crearItems(){
 
-    List<Widget> lista = new List<Widget>();
+    List<Widget> lista = [];
 
     for (String opt in opciones) {
       
