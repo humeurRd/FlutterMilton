@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Desarrollado por el equipo 6
+Eduardo Carrera Sánchez
+Arturo Chavira Pacheco
+Jasmín Alondra Ortiz Gomez
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
